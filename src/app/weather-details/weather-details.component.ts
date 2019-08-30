@@ -12,7 +12,7 @@ import moment, * as moments from 'moment';
 export class WeatherDetailsComponent implements OnInit {
 
   state = 'MO';
-  city = 'Kanas city';
+  city = 'Kansas city';
 
   foreCastData;
   fiveHrsData = [];
